@@ -1,0 +1,12 @@
+16:34:40  -  0228.mp3  -  Width: 458 - Height: 90
+16:34:21  -  0261.mp3  -  Width: 438 - Height: 260
+16:34:20  -  0258.mp3  -  Width: 475 - Height: 277
+16:34:09  -  0261.mp3  -  Width: 87 - Height: 225
+16:34:01  -  0228.mp3  -  Width: 363 - Height: 326
+16:33:41  -  0228.mp3  -  Width: 273 - Height: 62
+16:33:24  -  0258.mp3  -  Width: 269 - Height: 261
+16:32:49  -  0261.mp3  -  Width: 364 - Height: 189
+16:32:38  -  0261.mp3  -  Width: 315 - Height: 339
+16:32:34  -  0261.mp3  -  Width: 369 - Height: 204
+16:32:09  -  0258.mp3  -  Width: 188 - Height: 129
+16:31:51  -  0258.mp3  -  Width: 152 - Height: 206
